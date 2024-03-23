@@ -24,7 +24,7 @@
             <input id="txtEmail" type="email" placeholder="exemplo@exemplo.com"><br><br>
 
             <label for="txtSite">Site:</label>
-            <input id="txtSite" type="site" placeholder="http://www.exemplo.com">
+            <input id="txtSite" type="url" placeholder="http://www.exemplo.com">
 
         </fieldset>
 
